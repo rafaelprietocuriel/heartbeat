@@ -4,12 +4,12 @@ Compute weekly heartbeats of data on R and RStudio
 
 Function to compute the heartbeat of some data
 
-Author:
+##Author:
 
 Rafael Prieto Curiel rafael.prieto.13@ucl.ac.uk
 
 
-Input:
+##Input:
 
 Time of the events, provided as a single number
        where the number 43831.0 represents Wednesday 01/01/2020
@@ -20,7 +20,7 @@ Time of the events, provided as a single number
        43831.75 is Wednesday 01/01/2020 at 18:00
 
 
-Output:
+##Output:
 
 The heartbeat of the events, smoothed with a cyclic KDE
         computed for a vector of length 1024. 
