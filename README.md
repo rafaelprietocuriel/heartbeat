@@ -1,6 +1,7 @@
 # heartbeat
 Compute weekly heartbeats of data on R and RStudio
 
+
 Function to compute the heartbeat of some data
 Author: Rafael Prieto Curiel rafael.prieto.13@ucl.ac.uk
 Input: Time of the events, provided as a single number
